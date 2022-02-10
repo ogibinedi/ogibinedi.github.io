@@ -4,8 +4,6 @@ saya Ogi Bin Edi mengembangkan aplikasi Quran ID sebagai aplikasi Gratis. Aplika
 
 Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan aplikasi Quran ID dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan aplikasi Quran ID.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
 Jika Anda memilih untuk menggunakan aplikasi Quran ID, maka Anda menyetujui pengumpulan dan penggunaan informasi sehubungan dengan kebijakan ini. Informasi Pribadi yang saya kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan aplikasi Quran ID. Saya tidak akan menggunakan atau membagikan informasi Anda dengan siapa pun kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
 
 **Pengumpulan dan Penggunaan Informasi**
